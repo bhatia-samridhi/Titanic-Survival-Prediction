@@ -21,8 +21,8 @@ pip install library-name
 
 * [Python] - Language
 
-### Database
-The database has entries such as name, gender, age, those who survived are marked '1' and those who didn't are marked '0'.
+### Dataset
+The dataset has entries such as name, gender, age, those who survived are marked '1' and those who didn't are marked '0'.
 
 
 ### Algorithm Used
