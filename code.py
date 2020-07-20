@@ -7,7 +7,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 import matplotlib.dates as matdates
 plt.style.use('ggplot')
 import math
-titanic_df = pd.read_csv('F:\\PROJECTS\\titanicSurvival/train.csv')
+titanic_df = pd.read_csv('F:\\PROJECTS\\titanicSurvival/dataset.csv')
 print(titanic_df.head())
 print(titanic_df.tail())
 print(titanic_df.shape)
